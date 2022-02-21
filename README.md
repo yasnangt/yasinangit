@@ -3,7 +3,6 @@
 ## <p align=center >Hi guys! 🖐</p>
 
                   
-#### - <img src="https://user-images.githubusercontent.com/44297835/132100919-c4f58102-c3dd-4a7c-ae84-93563fd3d5bd.png" width="25" height="25" align="center"> I'm learning Game Programming. 
 #### - <img src="https://user-images.githubusercontent.com/44297835/132100835-b8f3f959-8b23-48ae-ac97-5a36486e8979.png" width="25" height="25" align="center"> I'm not working now
 #### - <img src="https://user-images.githubusercontent.com/44297835/132100779-84a02a06-0c8a-4e65-bdb4-511326b81250.png" width="25" height="25" align="center"> How to reach me yasin_angit78@hotmail.com
 #### - <img src="https://user-images.githubusercontent.com/44297835/132101027-d2f8478c-c221-4ebc-8a43-723b4fe31b7c.png" width="25" height="25" align="center"> Can find all my projects in github repo
